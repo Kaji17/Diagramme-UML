@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T14:37:00.499Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="IoK7xLVvBq2Nl8pjc2e4" version="24.4.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-27T15:22:35.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="gr6KTryLOcRTvJ3cNG_d" version="24.4.8" type="github" pages="10">
   <diagram name="DCU-CLIENT" id="I69ZrJ3DVeAubqPHy6Zh">
     <mxGraphModel dx="1103" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,6 +284,9 @@
           <mxGeometry x="-0.0798" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2rOAPU4YTA58HP6fm_Eh-1" value="DS Voter" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="170" width="880" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
