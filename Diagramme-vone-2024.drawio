@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="DCU" id="VFJr8dNFwUO1AaLpuf3z">
-    <mxGraphModel dx="2022" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,7 +225,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-71" value="A partitr d&#39;un brouillon" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="542" y="710" width="156" height="70" as="geometry" />
+          <mxGeometry x="542" y="720" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-72" value="-" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;" edge="1" parent="1" source="-O8y_khU-81oUFgjVsvs-71" target="-O8y_khU-81oUFgjVsvs-69">
           <mxGeometry x="-0.0003" relative="1" as="geometry">
@@ -354,7 +354,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-103" value="Envoyer une requête" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1099" width="156" height="70" as="geometry" />
+          <mxGeometry x="370" y="1130" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-104" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-O8y_khU-81oUFgjVsvs-5" target="-O8y_khU-81oUFgjVsvs-103">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
