@@ -81,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-23" value="S&#39;inscrire" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="220" width="140" height="70" as="geometry" />
+          <mxGeometry x="158" y="220" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" source="-O8y_khU-81oUFgjVsvs-23" target="-O8y_khU-81oUFgjVsvs-17">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -173,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-58" value="Changer de rôle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="260" width="156" height="70" as="geometry" />
+          <mxGeometry x="266" y="300" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-O8y_khU-81oUFgjVsvs-40" target="-O8y_khU-81oUFgjVsvs-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
