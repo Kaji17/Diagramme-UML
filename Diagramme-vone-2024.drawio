@@ -955,7 +955,7 @@
             <mxPoint x="46" y="1976" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yMJG4E9TfZPFUncJ9CK7-85" value="Etablire" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-85" value="Etablire un agenda de visite" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-72" y="2887" width="156" height="70" as="geometry" />
         </mxCell>
       </root>
