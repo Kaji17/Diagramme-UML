@@ -979,10 +979,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yu4ax7L_8zYfI80EFvk4-1" value="Reporter visite&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="318" y="3230" width="156" height="70" as="geometry" />
+          <mxGeometry x="318" y="3130" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yu4ax7L_8zYfI80EFvk4-2" value="Accepter visite" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="308" y="3140" width="156" height="70" as="geometry" />
+          <mxGeometry x="308" y="3210" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yu4ax7L_8zYfI80EFvk4-3" value="Annuler &amp;nbsp;visite" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="266" y="3000" width="156" height="70" as="geometry" />
@@ -991,16 +991,16 @@
           <mxGeometry x="-196" y="3010" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yu4ax7L_8zYfI80EFvk4-5" value="Consulter les transactions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="3430" width="156" height="70" as="geometry" />
+          <mxGeometry x="-350" y="3380" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yu4ax7L_8zYfI80EFvk4-6" value="Consulter les remboursement&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="3330" width="156" height="70" as="geometry" />
+          <mxGeometry x="-352" y="3270" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yu4ax7L_8zYfI80EFvk4-7" value="Consulter statistiques&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="3080" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yu4ax7L_8zYfI80EFvk4-8" value="Consulter rétro-activité&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="3210" width="156" height="70" as="geometry" />
+          <mxGeometry x="-352" y="3180" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yu4ax7L_8zYfI80EFvk4-9" value="Gerer visite" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="46" y="3170" width="156" height="70" as="geometry" />
@@ -1026,7 +1026,7 @@
         <mxCell id="yu4ax7L_8zYfI80EFvk4-15" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="yu4ax7L_8zYfI80EFvk4-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yu4ax7L_8zYfI80EFvk4-16" value="-" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yu4ax7L_8zYfI80EFvk4-1" target="yu4ax7L_8zYfI80EFvk4-9">
+        <mxCell id="yu4ax7L_8zYfI80EFvk4-16" value="-" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;" edge="1" parent="1" source="yu4ax7L_8zYfI80EFvk4-1" target="yu4ax7L_8zYfI80EFvk4-9">
           <mxGeometry x="-0.0003" relative="1" as="geometry">
             <mxPoint x="300.43" y="3280.03" as="sourcePoint" />
             <mxPoint x="120.43" y="3220.03" as="targetPoint" />
@@ -1047,7 +1047,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yu4ax7L_8zYfI80EFvk4-20" value="Payer données&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="3410" width="156" height="70" as="geometry" />
+          <mxGeometry x="-20" y="3380" width="156" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
