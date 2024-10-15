@@ -660,7 +660,7 @@
           <mxGeometry x="-40" y="1300" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yMJG4E9TfZPFUncJ9CK7-1" value="Modifier profil vendeur/locateur" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1930" width="156" height="70" as="geometry" />
+          <mxGeometry x="-130" y="1880" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yMJG4E9TfZPFUncJ9CK7-4" value="Consulter les tickets" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-82" y="2080" width="156" height="70" as="geometry" />
@@ -691,8 +691,8 @@
         <mxCell id="yMJG4E9TfZPFUncJ9CK7-12" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="yMJG4E9TfZPFUncJ9CK7-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yMJG4E9TfZPFUncJ9CK7-13" value="Repondre à un ticket" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-82" y="2270" width="156" height="70" as="geometry" />
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-13" value="Soumettre une propriété" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="2270" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yMJG4E9TfZPFUncJ9CK7-15" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" source="yMJG4E9TfZPFUncJ9CK7-13" target="yMJG4E9TfZPFUncJ9CK7-4">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -844,6 +844,54 @@
             <mxPoint x="983" y="1679" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-61" value="Consulter proprietés" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="2770" width="156" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-O8y_khU-81oUFgjVsvs-6" target="yMJG4E9TfZPFUncJ9CK7-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-420" y="2074" as="sourcePoint" />
+            <mxPoint x="-101" y="1948" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-63" value="Retirer proprietés en affiohage public" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="26" y="2730" width="156" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-64" value="Modifier statut de propriété" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="2550" width="156" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-65" value="Gerer proprietés" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="2600" width="156" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-66" value="-" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;" edge="1" parent="1" source="yMJG4E9TfZPFUncJ9CK7-61" target="yMJG4E9TfZPFUncJ9CK7-65">
+          <mxGeometry x="-0.0003" relative="1" as="geometry">
+            <mxPoint x="26" y="2770" as="sourcePoint" />
+            <mxPoint x="26" y="2670" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-67" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="yMJG4E9TfZPFUncJ9CK7-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-68" value="-" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;" edge="1" parent="1" source="yMJG4E9TfZPFUncJ9CK7-64" target="yMJG4E9TfZPFUncJ9CK7-65">
+          <mxGeometry x="-0.0003" relative="1" as="geometry">
+            <mxPoint x="11" y="2790" as="sourcePoint" />
+            <mxPoint x="-19" y="2680" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-69" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="yMJG4E9TfZPFUncJ9CK7-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-71" value="-" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;" edge="1" parent="1" source="yMJG4E9TfZPFUncJ9CK7-63" target="yMJG4E9TfZPFUncJ9CK7-65">
+          <mxGeometry x="-0.0003" relative="1" as="geometry">
+            <mxPoint x="127" y="2770" as="sourcePoint" />
+            <mxPoint x="67" y="2770" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMJG4E9TfZPFUncJ9CK7-72" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="yMJG4E9TfZPFUncJ9CK7-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
