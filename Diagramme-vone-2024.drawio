@@ -1223,7 +1223,7 @@
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-41" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VyjXkyDi2gbDcw5LaNq7-37">
           <mxGeometry x="70" y="290" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VyjXkyDi2gbDcw5LaNq7-42" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;4 Transferer lien de&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;confirmation d&#39;enregistrement&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" source="VyjXkyDi2gbDcw5LaNq7-27" target="VyjXkyDi2gbDcw5LaNq7-25">
+        <mxCell id="VyjXkyDi2gbDcw5LaNq7-42" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;4 Envoyer mail ou sms de&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;confirmation d&#39;enregistrement&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" source="VyjXkyDi2gbDcw5LaNq7-27" target="VyjXkyDi2gbDcw5LaNq7-25">
           <mxGeometry x="-0.1193" width="160" relative="1" as="geometry">
             <mxPoint x="-170" y="565" as="sourcePoint" />
             <mxPoint x="70" y="450" as="targetPoint" />
