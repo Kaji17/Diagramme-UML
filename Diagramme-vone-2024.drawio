@@ -1118,7 +1118,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4NqoiEcUNrs0sG12Dg_a-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
-          <mxGeometry x="40" y="120" width="20" height="730" as="geometry" />
+          <mxGeometry x="40" y="120" width="20" height="780" as="geometry" />
         </mxCell>
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4NqoiEcUNrs0sG12Dg_a-1">
           <mxGeometry x="5" y="80" width="10" height="160" as="geometry" />
@@ -1136,7 +1136,7 @@
           <mxGeometry x="20" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-1" value="Application cliente(web/mobile)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="210" y="120" width="150" height="760" as="geometry" />
+          <mxGeometry x="210" y="120" width="150" height="780" as="geometry" />
         </mxCell>
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VyjXkyDi2gbDcw5LaNq7-1">
           <mxGeometry x="70" y="80" width="10" height="160" as="geometry" />
@@ -1170,7 +1170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-13" value="Backend V-one" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="530" y="120" width="150" height="760" as="geometry" />
+          <mxGeometry x="530" y="120" width="150" height="780" as="geometry" />
         </mxCell>
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VyjXkyDi2gbDcw5LaNq7-13">
           <mxGeometry x="70" y="80" width="10" height="160" as="geometry" />
