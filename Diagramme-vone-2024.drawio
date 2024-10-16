@@ -1113,18 +1113,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nzTmRY5bpf-pZH6mTKqZ" name="DS-AUTH">
-    <mxGraphModel dx="1930" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4NqoiEcUNrs0sG12Dg_a-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
-          <mxGeometry x="40" y="120" width="20" height="520" as="geometry" />
+          <mxGeometry x="40" y="120" width="20" height="730" as="geometry" />
         </mxCell>
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4NqoiEcUNrs0sG12Dg_a-1">
           <mxGeometry x="5" y="80" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4NqoiEcUNrs0sG12Dg_a-1">
-          <mxGeometry x="5" y="270" width="10" height="160" as="geometry" />
+          <mxGeometry x="5" y="270" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VyjXkyDi2gbDcw5LaNq7-48" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4NqoiEcUNrs0sG12Dg_a-1">
+          <mxGeometry x="5" y="380" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VyjXkyDi2gbDcw5LaNq7-50" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4NqoiEcUNrs0sG12Dg_a-1">
+          <mxGeometry x="5" y="480" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4NqoiEcUNrs0sG12Dg_a-2" value="Visiteur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="80" width="60" height="30" as="geometry" />
@@ -1179,7 +1185,7 @@
           <mxGeometry x="80" y="184" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VyjXkyDi2gbDcw5LaNq7-13">
-          <mxGeometry x="70" y="290" width="10" height="120" as="geometry" />
+          <mxGeometry x="70" y="290" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-17" value="1.2 Envoyer requête d&#39;enregistrement()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="VyjXkyDi2gbDcw5LaNq7-8" target="VyjXkyDi2gbDcw5LaNq7-14">
           <mxGeometry relative="1" as="geometry">
@@ -1217,21 +1223,24 @@
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-41" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VyjXkyDi2gbDcw5LaNq7-37">
           <mxGeometry x="70" y="290" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VyjXkyDi2gbDcw5LaNq7-43" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=40;height=30;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="440" width="1220" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="VyjXkyDi2gbDcw5LaNq7-44" value="[&lt;span style=&quot;background-color: initial;&quot;&gt;si méthode de confirmation&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;est 2 way SMS&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;" vertex="1" parent="VyjXkyDi2gbDcw5LaNq7-43">
-          <mxGeometry width="100" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="40" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VyjXkyDi2gbDcw5LaNq7-45" value="[sinon]" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;" vertex="1" parent="VyjXkyDi2gbDcw5LaNq7-43">
-          <mxGeometry y="125" width="1010" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-42" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;4 Transferer lien de&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;confirmation d&#39;enregistrement&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" source="VyjXkyDi2gbDcw5LaNq7-27" target="VyjXkyDi2gbDcw5LaNq7-25">
           <mxGeometry x="-0.1193" width="160" relative="1" as="geometry">
-            <mxPoint x="600" y="490" as="sourcePoint" />
-            <mxPoint x="55" y="490" as="targetPoint" />
+            <mxPoint x="-170" y="565" as="sourcePoint" />
+            <mxPoint x="70" y="450" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VyjXkyDi2gbDcw5LaNq7-47" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;5. Cliquer sur lien pour&amp;nbsp;&lt;/span&gt;&lt;div&gt;confirmer enregistrement()&lt;/div&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" source="VyjXkyDi2gbDcw5LaNq7-48" target="VyjXkyDi2gbDcw5LaNq7-27">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="55" y="550" as="sourcePoint" />
+            <mxPoint x="600" y="550" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VyjXkyDi2gbDcw5LaNq7-49" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;6 Envoyer message de bienvenu&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;et redirection sur la page d&#39;inscription()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="VyjXkyDi2gbDcw5LaNq7-27" target="VyjXkyDi2gbDcw5LaNq7-48">
+          <mxGeometry x="-0.1193" y="15" width="160" relative="1" as="geometry">
+            <mxPoint x="585" y="630" as="sourcePoint" />
+            <mxPoint x="40" y="630" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
