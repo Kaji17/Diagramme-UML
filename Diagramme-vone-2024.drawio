@@ -1300,25 +1300,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oRs8mGsI1m8pAef8EYNC-1" value="Application cliente(web/mobile)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="350" y="80" width="110" height="440" as="geometry" />
+          <mxGeometry x="350" y="78" width="110" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="69ALaJgziRMYePjG7AlS-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="oRs8mGsI1m8pAef8EYNC-1">
-          <mxGeometry x="50" y="70" width="10" height="80" as="geometry" />
+        <mxCell id="Lp4e3hoPPyUVjfERyJHL-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="oRs8mGsI1m8pAef8EYNC-1">
+          <mxGeometry x="50" y="72" width="10" height="138" as="geometry" />
         </mxCell>
         <mxCell id="2Oq_cv4EhADrfvc0Tltv-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
           <mxGeometry x="110" y="80" width="20" height="480" as="geometry" />
         </mxCell>
         <mxCell id="2Oq_cv4EhADrfvc0Tltv-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="2Oq_cv4EhADrfvc0Tltv-1" vertex="1">
-          <mxGeometry x="5" y="70" width="10" height="20" as="geometry" />
+          <mxGeometry x="5" y="70" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2Oq_cv4EhADrfvc0Tltv-2" value="Acheteur/Locataire" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="48" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3kfmG7ocxJLjPKG9dPe5-1" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;1. Commencer création de requête()&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" source="2Oq_cv4EhADrfvc0Tltv-3" target="69ALaJgziRMYePjG7AlS-1">
-          <mxGeometry x="0.0323" width="160" relative="1" as="geometry">
-            <mxPoint x="140" y="180" as="sourcePoint" />
-            <mxPoint x="450" y="180" as="targetPoint" />
-            <mxPoint as="offset" />
+        <mxCell id="Lp4e3hoPPyUVjfERyJHL-2" value="1. Creer une requête" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="Lp4e3hoPPyUVjfERyJHL-1" parent="1" source="2Oq_cv4EhADrfvc0Tltv-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="155" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lp4e3hoPPyUVjfERyJHL-3" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="Lp4e3hoPPyUVjfERyJHL-1" parent="1" target="2Oq_cv4EhADrfvc0Tltv-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
