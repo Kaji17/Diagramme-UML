@@ -1334,7 +1334,7 @@
             <mxPoint x="-1940" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4MJLuKqBB8uwDTjrlodc-12" value="[donnée valide]" style="text;html=1;" vertex="1" parent="1">
+        <mxCell id="4MJLuKqBB8uwDTjrlodc-12" value="[donnée invalide]" style="text;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2260" y="-130" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yoQL_JRJSodAyQOn_UWU-1" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=40;height=20;fontStyle=1" vertex="1" parent="1">
