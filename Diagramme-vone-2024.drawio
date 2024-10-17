@@ -1212,17 +1212,6 @@
         <mxCell id="pdgWCiAfFauk1qGyFdIb-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="VyjXkyDi2gbDcw5LaNq7-13" vertex="1">
           <mxGeometry x="70" y="650" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FiHWou6COr28ffyEImoL-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VyjXkyDi2gbDcw5LaNq7-13">
-          <mxGeometry x="80" y="320" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FiHWou6COr28ffyEImoL-2" value="3.1 Generation du lien" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="FiHWou6COr28ffyEImoL-1" parent="VyjXkyDi2gbDcw5LaNq7-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="85" y="300" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="115" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VyjXkyDi2gbDcw5LaNq7-17" value="1.2 Envoyer requête d&#39;enregistrement()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="VyjXkyDi2gbDcw5LaNq7-8" target="VyjXkyDi2gbDcw5LaNq7-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="280" as="sourcePoint" />
@@ -1295,7 +1284,7 @@
             <mxPoint x="440" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdgWCiAfFauk1qGyFdIb-14" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;6 Envoyer&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;otp et redirection&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;vers la page de connexion()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" source="VyjXkyDi2gbDcw5LaNq7-13" target="pdgWCiAfFauk1qGyFdIb-15" edge="1">
+        <mxCell id="pdgWCiAfFauk1qGyFdIb-14" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;6 Envoyer&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;otp et redirection&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;vers la page de connexion()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" source="pdgWCiAfFauk1qGyFdIb-13" target="pdgWCiAfFauk1qGyFdIb-15" edge="1">
           <mxGeometry x="-0.1101" y="10" width="160" relative="1" as="geometry">
             <mxPoint x="585" y="820" as="sourcePoint" />
             <mxPoint x="40" y="820" as="targetPoint" />
