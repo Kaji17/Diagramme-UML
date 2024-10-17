@@ -1368,7 +1368,7 @@
           <mxGeometry x="5" y="280" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="HytP6TXJyx1cShZXUxSG-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="TGtBMtR2gF0sNWfs2wDZ-1">
-          <mxGeometry x="5" y="570" width="10" height="100" as="geometry" />
+          <mxGeometry x="5" y="570" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TGtBMtR2gF0sNWfs2wDZ-2" value="Application&lt;div&gt;Web/Mobile&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="100" height="860" as="geometry" />
@@ -1495,7 +1495,7 @@
           <mxGeometry x="515" y="530" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1jwfWnxHI64BjnpWHyA_-11" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="640" width="1050" height="160" as="geometry" />
+          <mxGeometry x="-50" y="640" width="1050" height="400" as="geometry" />
         </mxCell>
         <mxCell id="1jwfWnxHI64BjnpWHyA_-12" value="[ intéresser]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="670" width="80" height="26" as="geometry" />
@@ -1513,7 +1513,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HytP6TXJyx1cShZXUxSG-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="285" y="650" width="10" height="100" as="geometry" />
+          <mxGeometry x="285" y="650" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HytP6TXJyx1cShZXUxSG-2" value="Requête de réponse&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -1531,10 +1531,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HytP6TXJyx1cShZXUxSG-10" value="Page de soumission de propriété" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1.2;entryY=0.89;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HytP6TXJyx1cShZXUxSG-1" target="HytP6TXJyx1cShZXUxSG-9">
+        <mxCell id="HytP6TXJyx1cShZXUxSG-10" value="Page de soumission de propriété" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="HytP6TXJyx1cShZXUxSG-1" target="HytP6TXJyx1cShZXUxSG-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="730" as="sourcePoint" />
-            <mxPoint x="170" y="730" as="targetPoint" />
+            <mxPoint x="120" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
