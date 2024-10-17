@@ -1113,7 +1113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nzTmRY5bpf-pZH6mTKqZ" name="DS-UC-1">
-    <mxGraphModel dx="3915" dy="3245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3584" dy="3036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1310,8 +1310,8 @@
             <mxPoint x="-1440" y="-295" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONVFpdvlU_KECKVJAOI1-8" value="verifier l&#39;enregsitrement" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" parent="1" source="ONVFpdvlU_KECKVJAOI1-4" target="ONVFpdvlU_KECKVJAOI1-7" edge="1">
-          <mxGeometry x="0.0027" relative="1" as="geometry">
+        <mxCell id="ONVFpdvlU_KECKVJAOI1-8" value="verifier donnée inscription" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" parent="1" source="ONVFpdvlU_KECKVJAOI1-4" target="ONVFpdvlU_KECKVJAOI1-7" edge="1">
+          <mxGeometry x="0.0021" relative="1" as="geometry">
             <mxPoint x="-1355" y="-280" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-1325" y="-295" />
