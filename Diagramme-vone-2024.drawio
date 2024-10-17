@@ -1295,21 +1295,31 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JoNOzClqNc3iFYAJ2bth" name="DS-REQUETE">
-    <mxGraphModel dx="1026" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="775" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oRs8mGsI1m8pAef8EYNC-1" value="Application cliente(web/mobile)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="270" y="80" width="110" height="440" as="geometry" />
+        <mxCell id="oRs8mGsI1m8pAef8EYNC-1" value="Application cliente(web/mobile)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="350" y="80" width="110" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="2Oq_cv4EhADrfvc0Tltv-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+        <mxCell id="69ALaJgziRMYePjG7AlS-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="oRs8mGsI1m8pAef8EYNC-1">
+          <mxGeometry x="50" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Oq_cv4EhADrfvc0Tltv-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
           <mxGeometry x="110" y="80" width="20" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="2Oq_cv4EhADrfvc0Tltv-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2Oq_cv4EhADrfvc0Tltv-1">
-          <mxGeometry x="5" y="60" width="10" height="100" as="geometry" />
+        <mxCell id="2Oq_cv4EhADrfvc0Tltv-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="2Oq_cv4EhADrfvc0Tltv-1" vertex="1">
+          <mxGeometry x="5" y="70" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2Oq_cv4EhADrfvc0Tltv-2" value="Acheteur&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="48" width="70" height="30" as="geometry" />
+        <mxCell id="2Oq_cv4EhADrfvc0Tltv-2" value="Acheteur/Locataire" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="60" y="48" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3kfmG7ocxJLjPKG9dPe5-1" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;1. Commencer création de requête()&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" source="2Oq_cv4EhADrfvc0Tltv-3" target="69ALaJgziRMYePjG7AlS-1">
+          <mxGeometry x="0.0323" width="160" relative="1" as="geometry">
+            <mxPoint x="140" y="180" as="sourcePoint" />
+            <mxPoint x="450" y="180" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
