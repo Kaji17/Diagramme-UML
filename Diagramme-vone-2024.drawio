@@ -1113,7 +1113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nzTmRY5bpf-pZH6mTKqZ" name="DS-UC-1">
-    <mxGraphModel dx="4074" dy="3346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3377" dy="2905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1218,7 +1218,7 @@
           <mxGeometry x="70" y="280" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SLRcAtY5i1K3SZlXRJrK-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="nT73py0NUZ6fmoprjWzH-23" vertex="1">
-          <mxGeometry x="70" y="380" width="10" height="140" as="geometry" />
+          <mxGeometry x="70" y="380" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nT73py0NUZ6fmoprjWzH-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="nT73py0NUZ6fmoprjWzH-23" vertex="1">
           <mxGeometry x="73" y="429.96" width="17" height="40" as="geometry" />
