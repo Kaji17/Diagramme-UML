@@ -1354,13 +1354,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oRs8mGsI1m8pAef8EYNC-1" value="Application cliente(web/mobile)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="346" y="78" width="110" height="1042" as="geometry" />
+          <mxGeometry x="346" y="78" width="110" height="1162" as="geometry" />
         </mxCell>
         <mxCell id="5BVBEozfc-Xcs9v0ar2X-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oRs8mGsI1m8pAef8EYNC-1" vertex="1">
           <mxGeometry x="50" y="199" width="10" height="181" as="geometry" />
         </mxCell>
         <mxCell id="2Oq_cv4EhADrfvc0Tltv-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=40;" parent="1" vertex="1">
-          <mxGeometry x="107.5" y="78" width="25" height="1042" as="geometry" />
+          <mxGeometry x="107.5" y="78" width="25" height="1162" as="geometry" />
         </mxCell>
         <mxCell id="2Oq_cv4EhADrfvc0Tltv-2" value="Acheteur/ Locataire" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="55" y="48" width="130" height="30" as="geometry" />
@@ -1404,13 +1404,13 @@
           <mxGeometry y="60" width="460" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bLc4hl24oxHluHvwrsDF-12" value="MS Vone" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="584" y="78" width="110" height="1132" as="geometry" />
+          <mxGeometry x="584" y="78" width="110" height="1162" as="geometry" />
         </mxCell>
         <mxCell id="zPwyxmhRXhlSx31a7xAF-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bLc4hl24oxHluHvwrsDF-12" vertex="1">
           <mxGeometry x="50" y="496" width="10" height="41" as="geometry" />
         </mxCell>
         <mxCell id="bLc4hl24oxHluHvwrsDF-36" value="Server de notification" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="866" y="78" width="301.5" height="1066" as="geometry" />
+          <mxGeometry x="866" y="78" width="301.5" height="1162" as="geometry" />
         </mxCell>
         <mxCell id="bLc4hl24oxHluHvwrsDF-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bLc4hl24oxHluHvwrsDF-36" vertex="1">
           <mxGeometry x="-470" y="602" width="10" height="153" as="geometry" />
@@ -1489,7 +1489,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bLc4hl24oxHluHvwrsDF-50" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=40;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="78" width="25" height="1149" as="geometry" />
+          <mxGeometry x="1310" y="78" width="25" height="1162" as="geometry" />
         </mxCell>
         <mxCell id="bLc4hl24oxHluHvwrsDF-51" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bLc4hl24oxHluHvwrsDF-50" vertex="1">
           <mxGeometry x="7.5" y="973" width="10" height="80" as="geometry" />
@@ -1529,6 +1529,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="564" y="610" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oReEefZc6yAPdU2lWsEe-2" value="DS UC 2 : Gestion de requêtes" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=210;height=30;" vertex="1" parent="1">
+          <mxGeometry width="1440" height="1320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
