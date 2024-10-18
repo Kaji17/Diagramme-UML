@@ -1681,10 +1681,12 @@
         <mxCell id="tBf2cj-mGTtGBpykxxlE-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="3snl4x_MZ2c9NVOcp-YG-2">
           <mxGeometry x="45" y="800" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="9p6xzCJs6XwLehZ_XOS6-7" value="vérification de données" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="9p6xzCJs6XwLehZ_XOS6-6" parent="3snl4x_MZ2c9NVOcp-YG-2">
+        <mxCell id="9p6xzCJs6XwLehZ_XOS6-7" value="vérification de données" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" target="9p6xzCJs6XwLehZ_XOS6-6" parent="3snl4x_MZ2c9NVOcp-YG-2" source="tBf2cj-mGTtGBpykxxlE-9">
           <mxGeometry x="0.0118" relative="1" as="geometry">
             <mxPoint x="60" y="820" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="55" y="810" />
+              <mxPoint x="90" y="810" />
               <mxPoint x="90" y="850" />
             </Array>
             <mxPoint as="offset" />
