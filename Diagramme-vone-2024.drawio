@@ -1609,7 +1609,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LTl1Y84RbJ7RxBacP9Um" name="DS-Inscription de Propriété ">
-    <mxGraphModel dx="3107" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1907" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1835,7 +1835,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tBf2cj-mGTtGBpykxxlE-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="kAEsq9k4f5_wUwUb-ldA-1">
-          <mxGeometry x="1162.5" y="1430" width="10" height="80" as="geometry" />
+          <mxGeometry x="1162.5" y="1420" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tBf2cj-mGTtGBpykxxlE-20" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="kAEsq9k4f5_wUwUb-ldA-1" target="9p6xzCJs6XwLehZ_XOS6-9">
           <mxGeometry relative="1" as="geometry">
