@@ -1413,7 +1413,7 @@
           <mxGeometry y="60" width="440" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bLc4hl24oxHluHvwrsDF-12" value="MS Vone" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="584" y="78" width="110" height="1482" as="geometry" />
+          <mxGeometry x="584" y="78" width="110" height="1852" as="geometry" />
         </mxCell>
         <mxCell id="zPwyxmhRXhlSx31a7xAF-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bLc4hl24oxHluHvwrsDF-12" vertex="1">
           <mxGeometry x="50" y="496" width="10" height="41" as="geometry" />
