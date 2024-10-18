@@ -1543,7 +1543,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7w32RG6zQzIROTRm9dXw-1" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=40;height=20;" vertex="1" parent="oReEefZc6yAPdU2lWsEe-2">
-          <mxGeometry x="40" y="660" width="650" height="100" as="geometry" />
+          <mxGeometry x="40" y="660" width="420" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wWyokPk5MDArhkQhXbmR-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="7w32RG6zQzIROTRm9dXw-1">
           <mxGeometry x="356" y="10" width="10" height="80" as="geometry" />
