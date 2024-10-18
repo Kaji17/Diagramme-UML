@@ -1750,7 +1750,7 @@
             <mxPoint x="670" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tBf2cj-mGTtGBpykxxlE-24" value="Notification de résultat de vérification&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="tBf2cj-mGTtGBpykxxlE-22" target="tBf2cj-mGTtGBpykxxlE-23" edge="1">
+        <mxCell id="tBf2cj-mGTtGBpykxxlE-24" value="8. Notification de résultat de vérification&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="tBf2cj-mGTtGBpykxxlE-22" target="tBf2cj-mGTtGBpykxxlE-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="1130" as="sourcePoint" />
             <mxPoint x="440" y="1130" as="targetPoint" />
