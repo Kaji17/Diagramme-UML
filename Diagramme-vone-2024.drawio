@@ -2476,12 +2476,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T_sm2Y6cNfDrw0V1w6f_" name="DS-PROPOSITION(ACHETEUR)">
-    <mxGraphModel dx="1194" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="toPD-ywCJtMQ718F6C9V-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
-          <mxGeometry x="971" y="-1010" width="20" height="2360" as="geometry" />
+          <mxGeometry x="971" y="-1010" width="20" height="2730" as="geometry" />
         </mxCell>
         <mxCell id="2rHDZklxU6EBIW0A_6D2-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="toPD-ywCJtMQ718F6C9V-1" vertex="1">
           <mxGeometry x="5" y="290" width="10" height="80" as="geometry" />
@@ -2493,7 +2493,7 @@
           <mxGeometry x="950" y="-1040" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-gxBzqlcrxvY41cXkoKB-1" value="MS-Vone" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="1654" y="-1010" width="100" height="2590" as="geometry" />
+          <mxGeometry x="1654" y="-1010" width="100" height="2730" as="geometry" />
         </mxCell>
         <mxCell id="2rHDZklxU6EBIW0A_6D2-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="-gxBzqlcrxvY41cXkoKB-1" vertex="1">
           <mxGeometry x="45" y="300" width="10" height="50" as="geometry" />
