@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0" pages="9">
   <diagram name="DCU" id="VFJr8dNFwUO1AaLpuf3z">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1109,13 +1109,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FpGKvg4ef4Uzd2q79oFV-1" value="Prévisualiser une requête" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FpGKvg4ef4Uzd2q79oFV-1" value="Prévisualiser une requête" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1210" width="156" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FpGKvg4ef4Uzd2q79oFV-2" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" source="FpGKvg4ef4Uzd2q79oFV-1" target="-O8y_khU-81oUFgjVsvs-103">
+        <mxCell id="FpGKvg4ef4Uzd2q79oFV-2" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" source="FpGKvg4ef4Uzd2q79oFV-1" target="-O8y_khU-81oUFgjVsvs-103" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="558" y="1258" as="sourcePoint" />
             <mxPoint x="370" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdTIHFGhvMmNJ2bBGqFW-1" value="Lire les articles du blog" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-270" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tdTIHFGhvMmNJ2bBGqFW-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-O8y_khU-81oUFgjVsvs-1" target="tdTIHFGhvMmNJ2bBGqFW-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="130" as="sourcePoint" />
+            <mxPoint x="81" y="-89" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-200" y="-190" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
@@ -2830,6 +2842,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AxcRjg01g3qbzgZqDJEJ" name="DS-Matching">
+    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
