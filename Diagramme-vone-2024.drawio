@@ -2403,7 +2403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T_sm2Y6cNfDrw0V1w6f_" name="DS-PROPOSITION(ACHETEUR)">
-    <mxGraphModel dx="1247" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1207" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2846,10 +2846,54 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AxcRjg01g3qbzgZqDJEJ" name="DS-Matching">
-    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-9rcSqFxlIUvdJjt8bYt-1" value="MS-Vone" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="110" y="30" width="100" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="JVRlSN-jWQakpxjB5V_R-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-9rcSqFxlIUvdJjt8bYt-1">
+          <mxGeometry x="45" y="120" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0OkxZ49l0e_et7i94SN-1" value="1: requête réçu" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="-9rcSqFxlIUvdJjt8bYt-1" source="JVRlSN-jWQakpxjB5V_R-1" target="-9rcSqFxlIUvdJjt8bYt-1">
+          <mxGeometry x="NaN" y="210" relative="1" as="geometry">
+            <mxPoint x="-410" y="140" as="sourcePoint" />
+            <mxPoint x="-210" y="-10" as="offset" />
+            <mxPoint x="35" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVRlSN-jWQakpxjB5V_R-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-9rcSqFxlIUvdJjt8bYt-1">
+          <mxGeometry x="45" y="210" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JVRlSN-jWQakpxjB5V_R-5" value="analyse des&amp;nbsp;&lt;div&gt;caractéristiques de la requête&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="JVRlSN-jWQakpxjB5V_R-4" parent="-9rcSqFxlIUvdJjt8bYt-1">
+          <mxGeometry x="-0.0024" relative="1" as="geometry">
+            <mxPoint x="50" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="220" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVRlSN-jWQakpxjB5V_R-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-9rcSqFxlIUvdJjt8bYt-1">
+          <mxGeometry x="45" y="290" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JVRlSN-jWQakpxjB5V_R-7" value="création des tickets en&amp;nbsp;&lt;div&gt;fonction des caractéristiques&lt;/div&gt;&lt;div&gt;de la réquête&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="JVRlSN-jWQakpxjB5V_R-6" parent="-9rcSqFxlIUvdJjt8bYt-1">
+          <mxGeometry x="0.1859" y="10" relative="1" as="geometry">
+            <mxPoint x="50" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="300" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVRlSN-jWQakpxjB5V_R-2" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="JVRlSN-jWQakpxjB5V_R-1">
+          <mxGeometry x="-0.1011" y="5" relative="1" as="geometry">
+            <mxPoint x="-300" y="170" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="160" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
