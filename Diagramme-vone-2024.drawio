@@ -125,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-38" value="Réinitialiser mot de passe" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-310" y="710" width="156" height="70" as="geometry" />
+          <mxGeometry x="-156" y="220" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-39" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-O8y_khU-81oUFgjVsvs-40" target="-O8y_khU-81oUFgjVsvs-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
