@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0" pages="9">
   <diagram name="DCU" id="VFJr8dNFwUO1AaLpuf3z">
-    <mxGraphModel dx="4014" dy="3185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -985,7 +985,7 @@
         <mxCell id="yu4ax7L_8zYfI80EFvk4-3" value="Annuler &amp;nbsp;visite" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="3000" width="156" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yu4ax7L_8zYfI80EFvk4-4" value="Consulter liste de visite" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yu4ax7L_8zYfI80EFvk4-4" value="Consulter liste des reservations" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="2960" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yu4ax7L_8zYfI80EFvk4-5" value="Consulter les transactions" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
