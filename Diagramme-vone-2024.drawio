@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-O8y_khU-81oUFgjVsvs-1" value="Visiteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="-O8y_khU-81oUFgjVsvs-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Visiteur&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-330" y="110" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-O8y_khU-81oUFgjVsvs-5" value="Acheteur/Loc&lt;span style=&quot;background-color: initial;&quot;&gt;ataire&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="-O8y_khU-81oUFgjVsvs-5" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Acheteur/Loc&lt;span style=&quot;background-color: initial;&quot;&gt;ataire&lt;/span&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-370" y="975" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-O8y_khU-81oUFgjVsvs-6" value="Vendeur/Locateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="-O8y_khU-81oUFgjVsvs-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Vendeur/Locateur&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-460" y="2345" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-O8y_khU-81oUFgjVsvs-1" target="-O8y_khU-81oUFgjVsvs-7" edge="1">
@@ -200,7 +200,7 @@
         <mxCell id="-O8y_khU-81oUFgjVsvs-68" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" parent="-O8y_khU-81oUFgjVsvs-67" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-O8y_khU-81oUFgjVsvs-40" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="-O8y_khU-81oUFgjVsvs-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Client&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="350" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-70" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-O8y_khU-81oUFgjVsvs-5" target="-O8y_khU-81oUFgjVsvs-69" edge="1">
