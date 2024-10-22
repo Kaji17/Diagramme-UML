@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0" pages="9">
   <diagram name="DCU" id="VFJr8dNFwUO1AaLpuf3z">
-    <mxGraphModel dx="2131" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2420" dy="2177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,9 +125,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-38" value="Réinitialiser mot de passe" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-156" y="220" width="156" height="70" as="geometry" />
+          <mxGeometry x="-190" y="190" width="156" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-O8y_khU-81oUFgjVsvs-39" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-O8y_khU-81oUFgjVsvs-40" target="-O8y_khU-81oUFgjVsvs-38" edge="1">
+        <mxCell id="-O8y_khU-81oUFgjVsvs-39" value="" style="endArrow=none;html=1;rounded=0;fontStyle=1" parent="1" source="-O8y_khU-81oUFgjVsvs-40" target="-O8y_khU-81oUFgjVsvs-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="390" as="sourcePoint" />
             <mxPoint x="340" y="545" as="targetPoint" />
@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-58" value="Changer de rôle" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="136" y="300" width="156" height="70" as="geometry" />
+          <mxGeometry x="171" y="300" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-59" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-O8y_khU-81oUFgjVsvs-40" target="-O8y_khU-81oUFgjVsvs-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -361,7 +361,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-121" value="Consulter liste intérêt" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="790" width="156" height="70" as="geometry" />
+          <mxGeometry x="-276" y="1490" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-122" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-O8y_khU-81oUFgjVsvs-5" target="-O8y_khU-81oUFgjVsvs-121" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -592,7 +592,7 @@
           <mxGeometry x="-70" y="970" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-69" value="Créer une requête" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="102" y="850" width="156" height="70" as="geometry" />
+          <mxGeometry x="98" y="880" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-77" value="A partitr d&#39;une nouvelle requête" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="327" y="1030" width="156" height="70" as="geometry" />
@@ -634,7 +634,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-80" value="Enregistre en brouillon" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="810" width="156" height="70" as="geometry" />
+          <mxGeometry x="438" y="830" width="156" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-O8y_khU-81oUFgjVsvs-81" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" source="-O8y_khU-81oUFgjVsvs-80" target="-O8y_khU-81oUFgjVsvs-69" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1147,6 +1147,28 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-291" y="120" as="sourcePoint" />
             <mxPoint x="-56" y="-391" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8x-eRuA2N4RsuIeeNWFB-11" value="Souscrire à un forfait" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32" y="790" width="156" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8x-eRuA2N4RsuIeeNWFB-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-O8y_khU-81oUFgjVsvs-40" target="8x-eRuA2N4RsuIeeNWFB-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="379" as="sourcePoint" />
+            <mxPoint x="-142" y="265" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-270" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8x-eRuA2N4RsuIeeNWFB-14" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" source="8x-eRuA2N4RsuIeeNWFB-11" target="-O8y_khU-81oUFgjVsvs-135">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="198" y="810" as="sourcePoint" />
+            <mxPoint x="500" y="864" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="810" />
+              <mxPoint x="990" y="890" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
