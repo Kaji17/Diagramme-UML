@@ -3445,7 +3445,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_la7pwfnnZsXReXtjqdm" name="DCP-UTILISATEUR">
-    <mxGraphModel dx="1527" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1752" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3458,14 +3458,20 @@
         <mxCell id="_YNzVjUs6g91okrYG6wA-4" value="" style="line;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="_YNzVjUs6g91okrYG6wA-2">
           <mxGeometry y="55" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_YNzVjUs6g91okrYG6wA-5" value="enregistrement()" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="_YNzVjUs6g91okrYG6wA-2">
+        <mxCell id="_YNzVjUs6g91okrYG6wA-6" value="se connecter()" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="_YNzVjUs6g91okrYG6wA-2">
           <mxGeometry y="85" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_YNzVjUs6g91okrYG6wA-6" value="modifierUtilisateur" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="_YNzVjUs6g91okrYG6wA-2">
+        <mxCell id="_YNzVjUs6g91okrYG6wA-7" value="s&#39;inscrire()" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="_YNzVjUs6g91okrYG6wA-2">
           <mxGeometry y="105" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_YNzVjUs6g91okrYG6wA-7" value="supprimerUtilisateur" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="_YNzVjUs6g91okrYG6wA-2">
+        <mxCell id="_YNzVjUs6g91okrYG6wA-8" value="reiniitailiserMotPasse()" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="_YNzVjUs6g91okrYG6wA-2">
           <mxGeometry y="125" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_YNzVjUs6g91okrYG6wA-9" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;" edge="1" parent="1" source="_YNzVjUs6g91okrYG6wA-1" target="_YNzVjUs6g91okrYG6wA-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="40" y="78" as="sourcePoint" />
+            <mxPoint x="254" y="-200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
