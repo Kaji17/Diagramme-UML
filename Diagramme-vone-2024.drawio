@@ -1737,7 +1737,7 @@
             <mxPoint x="-1370" y="305.00000000000045" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LSrPWqCztf47BluvFqd-19" value="Opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="-LSrPWqCztf47BluvFqd-19" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="-2240" y="250" width="1200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-LSrPWqCztf47BluvFqd-21" value="renvoyer lien de confirmation" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="-LSrPWqCztf47BluvFqd-20" parent="1">
