@@ -3993,7 +3993,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VX0ebO12iL9e9lVBVOQR-1" value="&amp;lt;&amp;lt;entité&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Request&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2120" y="12.5" width="260" height="95" as="geometry" />
+          <mxGeometry x="2030" y="10" width="260" height="95" as="geometry" />
         </mxCell>
         <mxCell id="VX0ebO12iL9e9lVBVOQR-2" value="attributes" style="text;html=1;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="VX0ebO12iL9e9lVBVOQR-1" vertex="1">
           <mxGeometry y="55" width="260" height="20" as="geometry" />
