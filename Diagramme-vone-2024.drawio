@@ -4464,7 +4464,7 @@
           <mxGeometry y="115" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ki7wW3ZwgohjOHzKEG2J-4" value="&amp;lt;&amp;lt;entité&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;BuyRequest&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2550" y="-65" width="420" height="220" as="geometry" />
+          <mxGeometry x="2550" y="-65" width="420" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ki7wW3ZwgohjOHzKEG2J-13" value="propertyCategory : enumPropertyCategorie(neuf | commercial | usager)" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="ki7wW3ZwgohjOHzKEG2J-4">
           <mxGeometry y="55" width="420" height="20" as="geometry" />
@@ -4490,6 +4490,9 @@
         <mxCell id="ki7wW3ZwgohjOHzKEG2J-35" value="parking : init" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="ki7wW3ZwgohjOHzKEG2J-4">
           <mxGeometry y="200" width="420" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ki7wW3ZwgohjOHzKEG2J-56" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;buyRequestFeatures : list&amp;lt;BuyRequestFeature&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="ki7wW3ZwgohjOHzKEG2J-4">
+          <mxGeometry y="220" width="420" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="ki7wW3ZwgohjOHzKEG2J-43" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="ki7wW3ZwgohjOHzKEG2J-1" target="VX0ebO12iL9e9lVBVOQR-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="2410" y="-100" as="sourcePoint" />
@@ -4502,8 +4505,8 @@
             <mxPoint x="2636.5" y="-49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ki7wW3ZwgohjOHzKEG2J-47" value="&amp;lt;&amp;lt;entité&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;BuyRequest&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="60" width="420" height="220" as="geometry" />
+        <mxCell id="ki7wW3ZwgohjOHzKEG2J-47" value="&amp;lt;&amp;lt;entité&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;BuyRequestFeature&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3020" y="110" width="420" height="220" as="geometry" />
         </mxCell>
         <mxCell id="ki7wW3ZwgohjOHzKEG2J-48" value="propertyCategory : enumPropertyCategorie(neuf | commercial | usager)" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="ki7wW3ZwgohjOHzKEG2J-47">
           <mxGeometry y="55" width="420" height="20" as="geometry" />
