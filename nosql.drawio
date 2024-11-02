@@ -40,16 +40,16 @@
         <mxCell id="b-gevr_9jymBoINEgI2s-18" value="competition_id" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="b-gevr_9jymBoINEgI2s-17">
           <mxGeometry y="55" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b-gevr_9jymBoINEgI2s-19" value="jeux" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="b-gevr_9jymBoINEgI2s-17">
+        <mxCell id="b-gevr_9jymBoINEgI2s-22" value="evenement_id" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="b-gevr_9jymBoINEgI2s-17">
           <mxGeometry y="75" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b-gevr_9jymBoINEgI2s-20" value="description" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="b-gevr_9jymBoINEgI2s-17">
+        <mxCell id="b-gevr_9jymBoINEgI2s-19" value="jeux" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="b-gevr_9jymBoINEgI2s-17">
           <mxGeometry y="95" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b-gevr_9jymBoINEgI2s-21" value="no_evenement" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="b-gevr_9jymBoINEgI2s-17">
+        <mxCell id="b-gevr_9jymBoINEgI2s-20" value="date_heure_debut" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="b-gevr_9jymBoINEgI2s-17">
           <mxGeometry y="115" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b-gevr_9jymBoINEgI2s-22" value="annee" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="b-gevr_9jymBoINEgI2s-17">
+        <mxCell id="b-gevr_9jymBoINEgI2s-21" value="date_heure_fin" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="b-gevr_9jymBoINEgI2s-17">
           <mxGeometry y="135" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b-gevr_9jymBoINEgI2s-23" value="date_debut" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="b-gevr_9jymBoINEgI2s-17">
