@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="Page-1" id="HrZNA8j439JIlUBjpj4O">
-    <mxGraphModel>
+    <mxGraphModel dx="1379" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--1" value="MS ADMINISTRATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--2" value="MS SCHEDULER" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--3" value="MS NOTIFICATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--4" value="MS PARAMETRAGE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--5" value="MS AUTHENTIFICATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--6" value="MS PRODUCTION" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--7" value="MS GED" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--8" value="MS PRESTATIONS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="470" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--9" value="MS REPPORTS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--10" value="MS STATISTIQUES" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="460" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--11" value="MS RECLAMMATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--13" value="MS COMPTABILITE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="620" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--14" value="MS OGS-PRESTATAIRE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
