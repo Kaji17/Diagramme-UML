@@ -5,76 +5,76 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CrmFboLZ21T7WNUKfbQ--2" value="MS SCHEDULER" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="130" width="140" height="60" as="geometry" />
+          <mxGeometry x="520" y="140" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--3" value="MS NOTIFICATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="210" width="140" height="60" as="geometry" />
+          <mxGeometry x="320" y="220" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--4" value="MS PARAMETRAGE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="50" width="140" height="60" as="geometry" />
+          <mxGeometry x="370" y="140" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--5" value="MS AUTHENTIFICATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="290" width="140" height="60" as="geometry" />
+          <mxGeometry x="560" y="220" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--7" value="MS GED" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="380" width="140" height="60" as="geometry" />
+          <mxGeometry x="370" y="300" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--9" value="MS REPPORTS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="540" width="140" height="60" as="geometry" />
+          <mxGeometry x="320" y="380" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CrmFboLZ21T7WNUKfbQ--10" value="MS STATISTIQUES/KPI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="460" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CrmFboLZ21T7WNUKfbQ--13" value="MS COMPTABILITE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="620" width="140" height="60" as="geometry" />
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--10" value="MS STATISTIQUES / KPI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--15" value="MS COMPTE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="710" width="140" height="60" as="geometry" />
+          <mxGeometry x="560" y="380" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--17" value="APP HYGEE" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="200" width="330" height="480" as="geometry" />
+          <mxGeometry x="-90" y="200" width="330" height="320" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--1" value="MS ADMINISTRATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="CrmFboLZ21T7WNUKfbQ--17">
-          <mxGeometry x="130" y="50" width="140" height="60" as="geometry" />
+          <mxGeometry x="100" y="50" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--6" value="MS PRODUCTION" style="whiteSpace=wrap;html=1;" vertex="1" parent="CrmFboLZ21T7WNUKfbQ--17">
-          <mxGeometry x="120" y="180" width="140" height="60" as="geometry" />
+          <mxGeometry x="20" y="120" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--8" value="MS PRESTATIONS" style="whiteSpace=wrap;html=1;" vertex="1" parent="CrmFboLZ21T7WNUKfbQ--17">
-          <mxGeometry x="100" y="320" width="140" height="60" as="geometry" />
+          <mxGeometry x="180" y="120" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--11" value="MS RECLAMMATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="CrmFboLZ21T7WNUKfbQ--17">
-          <mxGeometry x="110" y="410" width="140" height="60" as="geometry" />
+          <mxGeometry x="30" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrmFboLZ21T7WNUKfbQ--13" value="MS COMPTABILITE" style="whiteSpace=wrap;html=1;" vertex="1" parent="CrmFboLZ21T7WNUKfbQ--17">
+          <mxGeometry x="180" y="200" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--18" value="APP OGS PRESTATAIRE" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="990" y="200" width="330" height="150" as="geometry" />
+          <mxGeometry x="780" y="140" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--14" value="MS OGS-PRESTATAIRE" style="whiteSpace=wrap;html=1;" vertex="1" parent="CrmFboLZ21T7WNUKfbQ--18">
-          <mxGeometry x="95" y="60" width="140" height="60" as="geometry" />
+          <mxGeometry x="70" y="60" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--19" value="APP OGS-CONNECT" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="980" y="390" width="330" height="320" as="geometry" />
+          <mxGeometry x="250" y="550" width="330" height="210" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--20" value="MS GARANTIE" style="whiteSpace=wrap;html=1;" vertex="1" parent="CrmFboLZ21T7WNUKfbQ--19">
-          <mxGeometry x="105" y="60" width="140" height="60" as="geometry" />
+          <mxGeometry x="20" y="60" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--21" value="MS RESEAU-SOIN" style="whiteSpace=wrap;html=1;" vertex="1" parent="CrmFboLZ21T7WNUKfbQ--19">
-          <mxGeometry x="105" y="140" width="140" height="60" as="geometry" />
+          <mxGeometry x="180" y="60" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--23" value="MS VITALE" style="whiteSpace=wrap;html=1;" vertex="1" parent="CrmFboLZ21T7WNUKfbQ--19">
-          <mxGeometry x="105" y="230" width="140" height="60" as="geometry" />
+          <mxGeometry x="95" y="130" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--24" value="APP OGS PLUS" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="990" y="20" width="330" height="150" as="geometry" />
+          <mxGeometry x="780" y="310" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--25" value="MS OGS-PLUS" style="whiteSpace=wrap;html=1;" vertex="1" parent="CrmFboLZ21T7WNUKfbQ--24">
-          <mxGeometry x="95" y="60" width="140" height="60" as="geometry" />
+          <mxGeometry x="65" y="60" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--22" value="MS DEMANDE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="800" width="140" height="60" as="geometry" />
+          <mxGeometry x="370" y="450" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrmFboLZ21T7WNUKfbQ--26" value="APP OGS-DOCTOR" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="980" y="730" width="330" height="80" as="geometry" />
+          <mxGeometry x="770" y="510" width="330" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
